@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\VCM-System\VCM-System\bin\Debug\netcoreapp2.0\VCM-System.deps.json
+C:\Users\Administrator\source\repos\VCM-System\VCM-System\bin\Debug\netcoreapp2.0\VCM-System.runtimeconfig.json
+C:\Users\Administrator\source\repos\VCM-System\VCM-System\bin\Debug\netcoreapp2.0\VCM-System.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\VCM-System\VCM-System\bin\Debug\netcoreapp2.0\VCM-System.dll
+C:\Users\Administrator\source\repos\VCM-System\VCM-System\obj\Debug\netcoreapp2.0\VCM-System.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\VCM-System\VCM-System\obj\Debug\netcoreapp2.0\VCM-System.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\VCM-System\VCM-System\obj\Debug\netcoreapp2.0\VCM-System.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\VCM-System\VCM-System\obj\Debug\netcoreapp2.0\VCM-System.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\VCM-System\VCM-System\bin\Debug\netcoreapp2.0\VCM-System.pdb
+C:\Users\Administrator\source\repos\VCM-System\VCM-System\obj\Debug\netcoreapp2.0\VCM-System.dll
+C:\Users\Administrator\source\repos\VCM-System\VCM-System\obj\Debug\netcoreapp2.0\VCM-System.pdb
